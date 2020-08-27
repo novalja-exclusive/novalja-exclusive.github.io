@@ -2621,7 +2621,7 @@ input[type="radio"] + label:before {
 .lang {
     width: 5%;
     height: auto;
-     margin: 0 0 2rem 0;
+    margin: 0 0 2rem 0;
 }
 
 .image.fill {
@@ -3518,6 +3518,10 @@ ul.feature-icons li:nth-child(2) {
     margin: 7.5rem 0 0 0;
 }
 
+.subtitle {
+    margin: 0.75rem 0 0 0 !important;
+}
+
 #wrapper section > header {
     padding: 0 10rem 0 5rem;
     width: 35rem;
@@ -3591,6 +3595,10 @@ ul.feature-icons li:nth-child(2) {
 
     #wrapper section {
         margin: 6rem 0 0 0;
+    }
+
+    .subtitle {
+        margin: 0.5rem 0 0 0 !important;
     }
 
     #wrapper section > header {
@@ -3803,7 +3811,11 @@ ul.feature-icons li:nth-child(2) {
     #wrapper section {
         margin: 6rem 0 0 0;
     }
-
+    
+    .subtitle {
+        margin: 0.5rem 0 0 0 !important;
+    }
+ 
     #wrapper > section {
         margin: 0;
     }
@@ -3839,6 +3851,11 @@ ul.feature-icons li:nth-child(2) {
     #wrapper section {
         margin: 3rem 0 0 0;
     }
+    
+    .subtitle {
+        margin: 0.25rem 0 0 0 !important;
+    }
+
 
     #wrapper > section {
         margin: 0;
@@ -3874,6 +3891,10 @@ ul.feature-icons li:nth-child(2) {
 
     #wrapper section {
         margin: 2.25rem 0 0 0;
+    }
+    
+    .subtitle {
+        margin: 0.15rem 0 0 0 !important;
     }
 
     #wrapper > section {
